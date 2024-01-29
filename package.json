@@ -1,5 +1,5 @@
 {
-  "name": "wolfram-automaton",
+  "name": "vectors-velocity",
   "version": "1.0.0",
   "description": "",
   "main": "index.html",
@@ -12,7 +12,8 @@
     "p5": "1.0.0"
   },
   "devDependencies": {
-    "parcel-bundler": "^1.6.1"
+    "parcel-bundler": "^1.6.1",
+    "typescript": "^5.3.3"
   },
   "keywords": []
 }
